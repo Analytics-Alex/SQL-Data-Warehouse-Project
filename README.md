@@ -35,4 +35,4 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ##  License
 This project is licensed under the [MIT LICENSE](LICENSE). You are free to use, modify, and share this project with proper attribution.
 ##  About Me
-Hi there! I'm **Alex Akinbobola**, also known as **Analytics-Alex**, and I'm Passionate about helping businesses make data-driven decision-making
+Hi there! I'm **Alex Akinbobola**, also known as **Analytics-Alex**. I help businesses turn raw data into clear insights that drive real growth.
